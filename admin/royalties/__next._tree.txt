@@ -1,5 +1,5 @@
-:HL["/_next/static/chunks/2s-oq0f5n03dd.css","style"]
+:HL["/_next/static/chunks/0gsoca15jl4su.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"royalties","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"admin","h":96,"c":"$Q2"}]]
-0:{"b":"T4NBQ55zvSc_5KgeEhFDO","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"oHlgxlbcx1UO9p8ckRW1o","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
